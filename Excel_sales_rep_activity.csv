@@ -1,0 +1,45 @@
+OrderDate,Region,"Name of Rep for Sale (Last, First)",Item (Class and Title), Unit Cost (Unit Sale Price),Units Sold in Order
+1/6/2015,East,Jones Smith,001 Pencil,1.99,95
+1/23/2015,Central,Kivell williams,011 Binder,19.99,50
+2/9/2015,Central,JARDINE BILLIAN,001 Pencil,4.99,36
+2/26/2015,Central,Gill Jacobson,003 Pen,19.99,27
+3/15/2015,West,Sorvino Vitoni,001 Pencil,2.99,56
+4/1/2015,East,Jones Smith,011 Binder,4.99,60
+4/18/2015,Central,Andrews Kris,001 Pencil,1.99,75
+5/5/2015,Central,Jardine Billian,001 Pencil,4.99,90
+5/22/2015,West,Thomspon Rivers,001 Pencil,1.99,32
+6/8/2015,EAST,Jones Smith,011 Binder,8.99,60
+6/25/2015,Central,Morgan John,001 Pencil,4.99,90
+7/12/2015,Easte,Howard Kip,011 Binder,1.99,29
+7/29/2015,EAST,Parent Nance,011 Binder,19.99,81
+8/15/2015,Eastt,Jones Frances,001 Pencil,4.99,35
+9/1/2015,Central,Smith Abraham,011 Desk,125,2
+9/18/2015,East,Jones Smith,006 Pen Set,15.99,16
+10/5/2015,Central,Morgan John,011 Binder,8.99,28
+10/22/2015,East,Jones Smith,003 Pen,8.99,64
+11/8/2015,East,Parent Nance,003 Pen,19.99,15
+11/25/2015,East,Kivell Williams,006 Pen Set,4.99,96
+12/12/2015,Central,Smith Abraham,001 Pencil,1.29,67
+12/29/2015,East,Parent Nance,006 Pen Set,15.99,74
+1/15/2016,Central,Gill Jacobson,011 Binder,8.99,46
+2/1/2016,Central,Smith Abraham,011 Binder,15,87
+2/18/2016,East,Jones Smith,011 Binder,4.99,4
+3/7/2016,West,Sorvino Vitoni,011 Binder,19.99,7
+3/24/2016,Central,Jardine Billian,006 Pen Set,4.99,50
+4/10/2016,Central,Andrews Kris,001 Pencil,1.99,66
+4/27/2016,East,Howard Kip,003 Pen,4.99,96
+5/14/2016,Central,Gill Jacobson,001 Pencil,1.29,53
+5/31/2016,Central,Gill Jacobson,011 Binder,8.99,80
+6/17/2016,Central,Kivell Williams,011 Desk,125,5
+7/4/2016,East,Jones Smith,006 Pen Set,4.99,62
+7/21/2016,Central,Morgan John,006 Pen Set,12.49,55
+8/7/2016,Central,Kivell Williams,006 Pen Set,23.95,42
+8/24/2016,West,Sorvino Vitoni,011 Desk,275,3
+9/10/2016,Central,Gill Jacobson,001 Pencil,1.29,7
+9/27/2016,West,Sorvino Vitoni,003 Pen,1.99,76
+9/18/2015,East,Jones Smith,006 Pen Set,15.99,16
+10/14/2016,West,Thomspon Rivers,011 Binder,19.99,57
+10/31/2016,Central,Andrews Kris,001 Pencil,1.29,14
+11/17/2016,Central,Jardine Billian,011 Binder,4.99,11
+12/4/2016,Central,Jardine Billian,011 Binder,19.99,94
+12/21/2016,Central,Andrews Kris,011 Binder,4.99,28
